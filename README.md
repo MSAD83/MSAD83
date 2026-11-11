@@ -55,8 +55,7 @@ Major: Control Engineering
 - Control Engineering & Industrial Automation
 - Embedded Systems & Microcontrollers
 - Software and Web Development
-- Artificial Intelligence Integration
-- Linux & Open-Source Technologies
+- Linux 
 
 ---
 
