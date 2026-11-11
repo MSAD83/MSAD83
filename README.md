@@ -38,8 +38,6 @@ Major: Control Engineering
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,django,python,cpp&perline=7&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react&perline=7&theme=dark)](https://skillicons.dev)
 
-*React Native*
-
 ### ⚙️ Engineering, Tools & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,git,linux,github&perline=7&theme=dark)](https://skillicons.dev)
